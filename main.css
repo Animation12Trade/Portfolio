@@ -1,0 +1,31 @@
+#logo {
+    width: 700px;
+    height: 500px;
+
+}
+
+input[type=submit] {
+    background-color: green;
+    color: white;
+    padding: 19px;
+    cursor: pointer;
+}
+.Portfolio {
+    border-radius: 200px;
+    background-color: antiquewhite;
+    padding: 100px;
+    margin-top: 50px;
+    margin-bottom: 90px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+input textarea {
+    width: 100%;
+    padding: 12px;
+    border: solid;
+}
+label[for=fname] [for=lname] {
+    width: 20px;
+    padding: 50px;
+    height: 20px;
+}
